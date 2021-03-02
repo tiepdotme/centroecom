@@ -1,0 +1,46 @@
+{
+  "description": {
+    "title": "Centro Fogões",
+    "text": ""
+  },
+  "links_1": {
+    "list_pages": true,
+    "title": "Páginas",
+    "list": []
+  },
+  "links_2": {
+    "list_categories": true,
+    "title": "Categorias",
+    "list": []
+  },
+  "contacts": {
+    "title": "Contatos",
+    "phone_wpp": true,
+    "socials": true,
+    "email": true,
+    "address": true
+  },
+  "stamps": [
+    {
+      "src": "/img/uploads/ssl-safe.png",
+      "alt": "Secure connection"
+    }
+  ],
+  "payment_methods": {
+    "bb": true,
+    "visa": true,
+    "boleto": true,
+    "aura": false,
+    "banrisul": false,
+    "elo": true,
+    "hipercard": false,
+    "hsbc": false,
+    "bradesco": true,
+    "santander": false,
+    "mastercard": true,
+    "citibank": false,
+    "mais": false,
+    "itau": true
+  },
+  "credits": "DENILSON CUNHA BORGES 39962551870 - CNPJ: 27.758.453/0001-38 © 2021 Todos os direitos reservados"
+}

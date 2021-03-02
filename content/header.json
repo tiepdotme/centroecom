@@ -1,0 +1,17 @@
+{
+  "marketing_stripe": {
+    "text": "",
+    "link": ""
+  },
+  "contacts_stripe": {
+    "pages": [],
+    "phone_wpp": true,
+    "socials": false
+  },
+  "categories_list": {
+    "featured": [],
+    "random": 6,
+    "full_width": true
+  },
+  "search_input": true
+}

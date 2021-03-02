@@ -1,0 +1,23 @@
+{
+  "domain": "www.centrofogoes.com.br",
+  "currency_symbol": "R$",
+  "primary_color": "#313131",
+  "theme": {
+    "bootswatch": "_",
+    "custom": "_"
+  },
+  "bg_color": "#fff",
+  "logo": "/img/uploads/logo.png",
+  "name": "centro-fogoes",
+  "short_name": "centro-fogoes",
+  "lang": "pt_br",
+  "currency": "BRL",
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#e36159",
+  "icon": "/img/uploads/logo-imagem-sem-fundo.png",
+  "store_id": 1215,
+  "description": "centro-fogoes",
+  "large_icon": "/img/uploads/logo.png"
+}
